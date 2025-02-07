@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>application/settings.png</file>
+  </qresource>
+  <qresource prefix="theme">
+    <file>wallpaper.jpg</file>
+  </qresource>
+</RCC>
